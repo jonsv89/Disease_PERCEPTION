@@ -17,7 +17,8 @@ Together with the raw data, we also need the following documents:
 "Epidemiological_networks/Disease_pairs.csv" --> Jensen et al. 2014 NatComm
 "Epidemiological_networks/PDN_3_digits.net" --> Hidalgo et al. 2009 PLoS CompBio
 "Patients_information_table.txt" --> Manually generated. Cluster information is added once the subgroups are generated.
-"Data/BIOGRID-ALL-3.4.164.tab2.txt" --> This file is too big, it should be downloaded from the web
+"Data/BIOGRID-ALL-3.4.164.tab2.txt" --> This file is too big, it should be downloaded from the web: https://downloads.thebiogrid.org/BioGRID/Release-Archive/BIOGRID-3.4.164/ 
+file: BIOGRID-ALL-3.4.164.tab2.zip
 
 ## Scripts to be run ##
 ## @@ @@ @@ @@ @@ @@ ##
