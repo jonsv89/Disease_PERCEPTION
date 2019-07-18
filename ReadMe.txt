@@ -75,20 +75,6 @@ This script classifies each patient into their corresponding disease and subgrou
 This script calculates patient-specific differential expression profiles for new patients and classifies them into the most probable disease based on the similarities of their differential expression profiles with the ones of the original patients.
 
 
+11-DB_generator_disease_PERCEPTION.R
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This script generates all the tables needed for the Disease PERCEPTION portal. 
